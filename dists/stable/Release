@@ -1,0 +1,10 @@
+Origin: PolkaDash Repo
+Label: PolkaDash
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: APT repository for PolkaDash
+Date: $(date -u '+%a, %d %b %Y %H:%M:%S UTC')
+ 480f12a812d533a0dc3aa0bb3c70271d4c2bcad5fae6e761ee3b0052fe88db3e main/binary-all/Packages
+ 011571bdcd3a238865a1110ceb8d13570957b28df4826c6d3b0c90bbe7db92ca main/binary-all/Packages.gz

@@ -1,0 +1,16 @@
+Package: polkadash
+Version: 1.0-1
+Architecture: all
+Maintainer: Stevan Lohja polkadash.headway672@passmail.net
+Depends: bash, curl, bc
+Filename: pool/main/p/polkadash/polkadash_1.0-1.deb
+Size: 4954
+MD5sum: 8f06bea416685ae3963bf2c40c54285d
+SHA1: ec73a61647a0ed1af9ef2413122497025c3172cc
+SHA256: b8ca4ec28bff9c6754dbd1c434dcbb4f252d007df99289cd3a45ab6b1316a6fa
+Section: utils
+Priority: optional
+Description: PolkaDash - A Polkadot Node Monitoring Dashboard
+ PolkaDash provides a real-time dashboard for monitoring Polkadot node metrics
+ via Prometheus, displaying peer status, chain progress, and more with a flashy UI.
+
